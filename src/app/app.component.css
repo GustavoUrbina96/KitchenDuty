@@ -1,0 +1,24 @@
+/*CSS PARA LOS BOTONES*/
+*{
+    --colorPrimary : #0087ff;
+    --colorSecondary : #0056BA;
+    --colorHighlighted : #EA6A68;
+    --colorGray : #EDEDED;
+    
+}
+.btn-kitchen{
+    background-color: #EA6A68;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+.btn-kitchen:hover{
+    background-color: rgb(247, 150, 148);
+    outline-color: #EA6A68;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    color: white;
+}
